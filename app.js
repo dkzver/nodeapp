@@ -3,7 +3,7 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
-
+//https://kurum.herokuapp.com/
 var router = require('./routes/index');
 
 
